@@ -3,7 +3,7 @@
 A **powerful Django-powered web application** inspired by the **Marvel Cinematic Universe (MCU)**.  
 This platform unites **superheroes 🦸‍♂️, movies 🎬, timelines 📅, and fan content** in one interactive system — built for exploration, learning, and data management.
 
----
+------------------------------------------------------------------------------------------------
 
 ## 📝 Project Overview
 
@@ -16,7 +16,7 @@ This project allows you to:
 - **Interactive Timelines:** Understand MCU chronology easily through organized timelines.
 - **Templates & Views:** Clean HTML templates with responsive pages and smooth UI experience.
 
----
+------------------------------------------------------------------------------------------------
 
 ## 🛠 Tech Stack
 
@@ -28,7 +28,7 @@ This project allows you to:
 | **Version Control** | Git & GitHub                |
 | **Deployment**   | Localhost / Django server     |
 
----
+-------------------------------------------------------------------------------------------
 
 ## 📂 Project Structure
 
@@ -52,55 +52,46 @@ MCU_Django_Project/
 ├── manage.py # Django management script
 └── README.md # Project documentation
 
-yaml
-Copy code
-
----
+------------------------------------------------------------------------------------------------
 
 ## ⚡ Installation & Setup
 
 1. **Clone the repository:**
-```bash
 git clone https://github.com/atharva18-hue/Marvel_Cinematic_Universe.git
 cd Marvel_Cinematic_Universe
-Create a virtual environment:
 
-bash
-Copy code
+------------------------------------------------------------------------------------------------
+
+## Create a virtual environment:
 python -m venv env
-Activate environment:
 
-Windows:
+------------------------------------------------------------------------------------------------
 
-bash
-Copy code
+## Activate environment:
 env\Scripts\activate
-Linux/Mac:
 
-bash
-Copy code
-source env/bin/activate
-Install dependencies:
+------------------------------------------------------------------------------------------------
 
-bash
-Copy code
+## Install dependencies:
 pip install -r requirements.txt
-Run migrations:
 
-bash
-Copy code
+------------------------------------------------------------------------------------------------
+
+## Run migrations:
 python manage.py migrate
-Start the development server:
 
-bash
-Copy code
+------------------------------------------------------------------------------------------------
+
+## Start the development server:
 python manage.py runserver
-Open in browser:
 
-cpp
-Copy code
+------------------------------------------------------------------------------------------------
+
+## Open in browser:
 http://127.0.0.1:8000/
-🎯 Usage
+
+------------------------------------------------------------------------------------------------
+## 🎯Usage
 Navigate through the homepage to explore MCU movies and characters.
 
 Use the search bar to find movies or superheroes quickly.
@@ -109,14 +100,20 @@ Add new fan stories and explore existing ones.
 
 View MCU chronological timelines with proper movie order.
 
-👤 Author
+------------------------------------------------------------------------------------------------
+
+ ## 👤Author
 Atharva Chavhan
 GitHub: atharva18-hue
 Passionate about Django, Python, and web projects.
 
-🌟 Acknowledgements
+------------------------------------------------------------------------------------------------
+
+## 🌟 Acknowledgements
 Inspired by the Marvel Cinematic Universe (MCU)
 
 Built with Django Framework
 
 Special thanks to the Django community for excellent documentation
+
+------------------------------------------------------------------------------------------------
