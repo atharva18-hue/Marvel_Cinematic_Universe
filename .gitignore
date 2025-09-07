@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+Scripts/
+Lib/
+pyvenv.cfg
+CACHEDIR.TAG
+*.env
+
+# Django
+db.sqlite3
+/media/
+/staticfiles/
+
+# VS Code
+.vscode/
