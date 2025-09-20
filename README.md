@@ -1,7 +1,14 @@
-# 🌌 Marvel Cinematic Universe Django Project
-Dive into the ultimate Marvel Cinematic Universe experience with this powerful Django web application!
+# 🌌 Marvel Cinematic Universe Django Project  
 
-This project is a comprehensive platform that brings together every MCU superhero 🦸‍♂️, movie 🎬, timeline 📅, and fan-created content in one interactive, engaging system. Built with Django, Python, and modern web practices, it’s designed for both MCU enthusiasts and developers who want a hands-on, immersive experience.
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+
+🚀 Dive into the **ultimate MCU experience** with this Django-powered web app!  
+A complete platform uniting every **Marvel superhero 🦸‍♂️, movie 🎬, timeline 📅, and fan story ✍️** in one place.  
 
 ------------------------------------------------------------------------------------------------
 
