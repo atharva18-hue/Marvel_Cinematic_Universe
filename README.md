@@ -23,7 +23,7 @@ This project allows you to:
 ------------------------------------------------------------------------------------------------
 ## Project Video
 
-https://github.com/user-attachments/assets/569d085b-79bb-4f86-a026-b13069c7de5b
+https://github.com/user-attachments/assets/3ce0565a-925d-4475-a0c4-faec1a705532
 
 ------------------------------
 
