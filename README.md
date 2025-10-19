@@ -1,15 +1,14 @@
 
-# 🌌 Marvel Cinematic Universe Django Project  
+#  Marvel Cinematic Universe Django Project  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 
 Dive into an immersive Marvel Cinematic Universe (MCU) experience with this Django-powered web application!
-This project unifies every superhero 🦸‍♂️, blockbuster movie 🎬, chronological timeline 📅, and fan-created story 📝 into one dynamic platform.
+This project unifies every superhero , blockbuster movie , chronological timeline , and fan-created story  into one dynamic platform.
 Designed for MCU enthusiasts and developers alike, it delivers a seamless, interactive journey through the Marvel Universe — combining powerful backend logic with a sleek, responsive UI.
 
 ------------------------------------------------------------------------------------------------
 
-## 📝 Project Overview
+##  Project Overview
 
 This project allows you to:
 
@@ -27,7 +26,7 @@ https://github.com/user-attachments/assets/3ce0565a-925d-4475-a0c4-faec1a705532
 
 ------------------------------
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer            | Technology                    |
 |-----------------|-------------------------------|
@@ -39,7 +38,7 @@ https://github.com/user-attachments/assets/3ce0565a-925d-4475-a0c4-faec1a705532
 
 -------------------------------------------------------------------------------------------
 
-## 📂 Project Structure
+##  Project Structure
 
 MCU_Django_Project/
 │
@@ -63,7 +62,7 @@ MCU_Django_Project/
 
 ------------------------------------------------------------------------------------------------
 
-## ⚡ Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository:**
 git clone https://github.com/atharva18-hue/Marvel_Cinematic_Universe.git
@@ -100,7 +99,7 @@ python manage.py runserver
 http://127.0.0.1:8000/
 
 ------------------------------------------------------------------------------------------------
-## 🎯Usage
+## Usage
 Navigate through the homepage to explore MCU movies and characters.
 
 Use the search bar to find movies or superheroes quickly.
@@ -111,14 +110,14 @@ View MCU chronological timelines with proper movie order.
 
 ------------------------------------------------------------------------------------------------
 
- ## 👤Author
+ ## Author
 Atharva Chavhan
 GitHub: atharva18-hue
 Passionate about Django, Python, and web projects.
 
 ------------------------------------------------------------------------------------------------
 
-## 🌟 Acknowledgements
+##  Acknowledgements
 Inspired by the Marvel Cinematic Universe (MCU)
 
 Built with Django Framework
